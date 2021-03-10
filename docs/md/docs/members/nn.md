@@ -1,6 +1,6 @@
-# NN
+# Grupo 1
 
-## Bio
+## Alejandro Sebastian Alejo Patarroyo
 
 ## Interests
 
